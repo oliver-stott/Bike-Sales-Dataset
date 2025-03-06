@@ -3,6 +3,8 @@ This was a fun project to work on, even though the data set was relativley small
 
 Once the Excel file has been opened, you will notice multiple sheets, These contain the raw dataste, worksheet, pivot tables and the final dashboard.
 
+![dashboard](bike-dashboard.png)
+
 ## Identifying useful data
 The first thing I did when looking at the dataset was identify useful information such as Age, Gender, Region, Income, Gender, Marital Status. All of this information could be used to generate interesting metrics to identify data trends. 
 
